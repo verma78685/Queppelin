@@ -1,0 +1,23 @@
+input:focus,
+input.form-control:focus {
+  outline: none !important;
+  outline-width: 0 !important;
+  box-shadow: none;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.login {
+  transform: translate(0, 15%);
+}
+
+.login_hr{
+  width: 7%;
+    margin-top: 0px;
+    height: 1px;
+    background-color: black;
+}
