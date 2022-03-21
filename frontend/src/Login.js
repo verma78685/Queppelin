@@ -72,7 +72,7 @@ function Login() {
           <hr className="login_hr" />
           <div className="form-group container">
             <input
-              type="text"
+              type="email"
               value={email}
               className="form-control email"
               placeholder="Enter Email ID"
